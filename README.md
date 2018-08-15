@@ -11,4 +11,6 @@ Project SetUp:
 7. Scaffold the application using generators
   express backend [NodeJS and Express application]
   create-react-app frontend [React application]
-8. 
+8. In backend folder bin/www change port to 3001 and later run npm install to install the dependencies.
+9. In frontend folder package.json add "proxy": "http://localhost:3001" to proxy the client api request to server api, later run yarn install to install the dependencies.
+10. https://www.sitepoint.com/yarn-vs-npm/
