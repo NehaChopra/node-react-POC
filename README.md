@@ -1,2 +1,2 @@
-# node-react-POC
-node-react-POC
+# Node API that feeds a React UI
+
